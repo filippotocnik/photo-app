@@ -1,2 +1,0 @@
-export SENDGRID_USERNAME=filippo
-export SENDGRID_PASSWORD=Filippo321
